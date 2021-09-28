@@ -1,0 +1,1 @@
+export const apiurl="http://124.52.83.56:4000"
